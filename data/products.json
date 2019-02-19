@@ -1,0 +1,110 @@
+[
+  {
+    "id": "T01",
+    "name": "SupCar",
+    "type": "toy",
+    "class": "vehicle",
+    "released": true,
+    "stats": {
+      "material": "Metal",
+      "size": 120,
+      "weight": 10
+    },
+    "tests": {
+      "quality": null,
+      "durability": 10,
+      "waterproof": false
+    },
+    "scores": [8, 9, 10, 10, 6, 5]
+  },
+  {
+    "id": "T02",
+    "name": "SupPlane",
+    "type": "toy",
+    "class": "vehicle",
+    "released": false,
+    "stats": {
+      "material": "Metal",
+      "size": 350,
+      "weight": 45
+    },
+    "tests": {
+      "quality": 10,
+      "durability": 9,
+      "waterproof": false
+    },
+    "scores": [9, 9, 10, 10, 10]
+  },
+  {
+    "id": "M01",
+    "name": "JeepX",
+    "type": "model",
+    "class": "vehicle",
+    "released": true,
+    "stats": {
+      "material": "Plastic",
+      "size": 50,
+      "weight": null
+    },
+    "tests": {
+      "quality": 6,
+      "durability": 4,
+      "waterproof": true
+    },
+    "scores": [6, 8, 7, 9, 8, 6]
+  },
+  {
+    "id": "M02",
+    "name": "AircraftX",
+    "type": "model",
+    "class": "vehicle",
+    "released": true,
+    "stats": {
+      "material": "Plastic",
+      "size": 85,
+      "weight": 3
+    },
+    "tests": {
+      "quality": 6,
+      "durability": 5,
+      "waterproof": true
+    },
+    "scores": [9, 9, 10, 8, 10, 7, 9]
+  },
+  {
+    "id": "M03",
+    "name": "Runner",
+    "type": "model",
+    "class": "people",
+    "released": true,
+    "stats": {
+      "material": "Wood",
+      "size": 15,
+      "weight": null
+    },
+    "tests": {
+      "quality": 5,
+      "durability": null,
+      "waterproof": true
+    },
+    "scores": [6, 7, 5, 6, 5, 8, 10, 9, 8, 9]
+  },
+  {
+    "id": "M04",
+    "name": "Dancer",
+    "type": "model",
+    "class": "people",
+    "released": false,
+    "stats": {
+      "material": "Wood",
+      "size": 16,
+      "weight": 0.6
+    },
+    "tests": {
+      "quality": 6,
+      "durability": 6,
+      "waterproof": true
+    },
+    "scores": [8, 9, 6, 9, 7, 8]
+  }
+]

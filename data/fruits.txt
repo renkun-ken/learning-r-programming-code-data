@@ -1,0 +1,7 @@
+apple: 20
+orange: missing
+banana: 30
+pear: sent to Jerry
+watermelon: 2
+blueberry: 12
+strawberry: sent to James
